@@ -1,4 +1,4 @@
-const colors = {
+var colors = {
     base: {
         WHITE: '#d9e1e8',
         BLACK: '#141414'
